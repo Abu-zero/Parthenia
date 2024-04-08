@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4210497412273023971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4210497412273023969}
+  - component: {fileID: 4210497412273023968}
+  m_Layer: 0
+  m_Name: "g\xF6rev_verenler"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4210497412273023969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4210497412273023971}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.5819435, y: 0.4299932, z: -46.49426}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4210497412273023968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4210497412273023971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae227599845eee49b38e7412a64fe10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gorevciler1: {fileID: 0}
+  gorevciler2: {fileID: 0}
+  gorevciler3: {fileID: 0}
+  gorevciler4: {fileID: 0}
+  gorevciler5: {fileID: 0}
+  gorevyapisi: {fileID: 0}
+  j: -1
+  gorev1: 0
+  gorev2: 0
+  gorev3: 0
+  gorev4: 0
+  gorev5: 0
+  gorevler:
+  - "Day\u0131 \u0130le Konu\u015F"
+  - "\u0130\u015F\xE7i \u0130le Konu\u015F"
+  - "\xD6\u011Frenciler ile konu\u015F"
+  - "Kad\u0131n ile konu\u015F"
+  - "\u015Eof\xF6r ile konu\u015F"
+  yenidizi: []
